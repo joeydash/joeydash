@@ -16,4 +16,6 @@ I am highly interested in Artificial Intelligent and hope to contribute to this 
 
 <h5>Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h5>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=joeydash&show_icons=true&theme=gotham" alt="Mritunjoy Das | Stats"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeydash&theme=gotham)](https://github-readme-stats.vercel.app/api/top-langs/?username=joeydash)
 <hr/>
